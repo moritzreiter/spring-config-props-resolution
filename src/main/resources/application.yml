@@ -1,0 +1,8 @@
+my-props:
+  first-level-prop: "foo"
+  nested:
+    second-level-prop: "bar"
+  nested-camel-case-no-final:
+    second-level-prop: "baz"
+  nested-camel-case-and-final:
+    second-level-prop: "qux"
